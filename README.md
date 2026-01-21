@@ -1,4 +1,6 @@
-# snakeantigravity
+# snakeantigravity 🐍
+
+[GitHub Repository](https://github.com/6liuliu/snake-game)
 
 A classic Snake game implemented in Python using the `pygame` library.
 
